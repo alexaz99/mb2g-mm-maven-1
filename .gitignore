@@ -140,3 +140,12 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+######################
+# Maven
+######################
+/converters/target/
+/from-intellij/target/
+/jpa-entities/target/
+/web-api/target/
+/web-app/target/
