@@ -139,3 +139,6 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+/from-intellij/target/
+/jpa-entities/target/
+/web-api/target/
