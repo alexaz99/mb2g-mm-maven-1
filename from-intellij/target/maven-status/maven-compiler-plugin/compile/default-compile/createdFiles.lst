@@ -1,1 +1,7 @@
+guru\springframework\intellij\guiceApp\GuiceApp.class
 guru\springframework\intellij\HelloFromJetbrains.class
+guru\springframework\intellij\guiceApp\beans\DbRunner.class
+guru\springframework\intellij\guiceApp\MainModule.class
+guru\springframework\intellij\guiceApp\InjectorProvider.class
+guru\springframework\intellij\guiceApp\beans\IDbRunner.class
+guru\springframework\intellij\guiceApp\beans\IRunner.class
